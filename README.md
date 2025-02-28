@@ -1,5 +1,4 @@
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">GitHub Stats :
 
@@ -10,4 +9,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalshx&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
